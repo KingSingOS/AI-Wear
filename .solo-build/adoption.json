@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0.0",
+  "repository": "KingSingOS/AI-Wear",
+  "audited_revision": "5ddb0ca8e7d5f2ddc6c319f61c502ebd5df86262",
+  "template": {
+    "version": "1.0.0",
+    "sha256": "a06810064c77948c51f7efc6e212169d54bdd6a4e39172515cd746c065693bde"
+  },
+  "instructions": [],
+  "trackers": [],
+  "checks": "not-configured",
+  "profile": "unknown",
+  "profile_verified": false,
+  "state": "adoption-in-progress",
+  "unresolved_mappings": [
+    "instructions",
+    "trackers"
+  ],
+  "configuration": "not-configured",
+  "admission": "fail-admission",
+  "evidence_authenticated": false,
+  "generated_agent_route": "AGENTS.md",
+  "candidate_native_script_names_unexecuted": [],
+  "native_checks_verified": false
+}
